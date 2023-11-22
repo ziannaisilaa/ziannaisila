@@ -1,4 +1,4 @@
-[MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+[![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 <h1 align="center">Hi 👋, I'm Zian Naisila A</h1>
 <h3 align="center">A passionate frontend & backend developer from Indonesia</h3>
 
